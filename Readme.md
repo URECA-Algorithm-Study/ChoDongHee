@@ -5,6 +5,7 @@
 + [스택2, b28278](https://www.acmicpc.net/problem/28278)
 + [스택수열, b1874](https://www.acmicpc.net/problem/1874)
 
+
 + ___6월 19일___ **업로드**
 + [색종이, 2563](https://www.acmicpc.net/problem/2563)
 + [설탕 배달, 2839](https://www.acmicpc.net/problem/2839)
